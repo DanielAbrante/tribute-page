@@ -1,2 +1,2 @@
-# tribute-page
- A page about biography Dr. Norman Borlaug
+<img src="./img/readme/tribute-page.png"/>
+    
